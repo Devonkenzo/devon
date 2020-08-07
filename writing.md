@@ -1,9 +1,8 @@
 ---
 layout: category_index
 title: Writing
-permalink: /writing/
+permalink: /Stuff/
 category_name: writing
 
 ---
-
 Stuff
